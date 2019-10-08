@@ -8,8 +8,15 @@ body{
     padding: 10% 0 10% 0;
     font-family: 'Times New Roman', Times, serif;
 }
+.compare .head h1{
+    text-align: center;
+    font-size: 5em;
+    font-weight: bold;
+    text-shadow: 1vh;
+    padding: 5% 0 5% 0;
+}
 .other{
-    padding: 3% 3% 3% 3%;
+    padding: 3% 3% 3% 0%;
     display: block;
     box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;    
 }
@@ -23,16 +30,32 @@ body{
     text-align: right;
     list-style-type: none;
 }
+.other ul li{
+    padding-bottom: 10px;
+    justify-content: center;
+    align-content: center;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+.other ul li i{
+    color: red;
+    padding-left: 15px;
+    font-size: 1.5em;
+}
 .vs{
-    padding: 10% 2% 0 2%;
+    padding: 12% 2% 0 2%;
     display: block;
     /* border: 1px solid black; */
     /* border-left: 0.5px solid rgba(0,0,0,.175); */
     text-align: center;
     /* box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important; */
 }
+.vs h1{
+    font-size: 3em;
+    font-weight: bold;
+}
 .backup{
-    padding: 3% 3% 3% 0%;
+    padding: 3% 0% 3% 0%;
     display: block;
     box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;    
 }
@@ -46,6 +69,18 @@ body{
 .backup ul{
     text-align: left;
     list-style-type: none;
+}
+.backup ul li{
+    padding-bottom: 10px;
+    justify-content: center;
+    align-content: center;
+    font-size: 1.3em;
+    font-weight: 500;
+}
+.backup ul li i{
+    color: green;
+    padding-right: 15px;
+    font-size: 1.5em;
 }
 
  /*
