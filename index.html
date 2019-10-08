@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <link rel="icon" href="assets/logo.png">
+  <link rel="icon" href="../assets/logo.png">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
@@ -24,37 +24,29 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
     integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
   </script>
-  <!-- <link rel="stylesheet" href="css/video.css"> -->
 
+
+  <!-- <link rel="stylesheet" href="css/video.css"> -->
+  <link rel="stylesheet" href="css/indexpage.css">
   <title>Backup</title>
+  
 </head>
 
 <body>
-<section class="frontpage">
-
-</section>
-<section class="video">
-
-</section>
-<section class="formpage">
-
-</section>
-<!-- 
-
-  <section>
+  <div class="frontpage">
     <div id="polina" class="front">
       <img src="assets1/logo1.png"><br>
       <img src="assets1/backup_text.png">
       <h3 style="color: white; padding-top:50px;z-index: 10; ">General cyber-security training provider</h3>
       <button class="getstarted"><span>Get Started </span></button>
     </div>
-  </section>
-  <section class="video" style="display: none;">
+  </div>
+  <div class="video">
     <video id="bgvid" controls>
       <source src="assets1/Backup Video_27Sept_SAMPLE.mp4" type="video/mp4">
     </video>
-  </section>
-  <section id="inputform" class="" style="display: none;">
+  </div>
+  <div class="formpage hideform" id="formpage">
     <div class="form">
       <div class="mail" style="color: white"></div>
       <h1 class="text">Interesting isn't it? Get in touch</h1>
@@ -66,7 +58,7 @@
         <P>E-mail : </P>
         <input class="input2" type="email" name="email" required="" autofocus="" placeholder="your Email please" />
         <p>Cell-No : </p>
-        <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required="" autofocus="">
+        <input type="tel" id="phone" name="phone" autofocus="">
         <div class="submit"><button>Send</button></div>
         <br>
       </form>
@@ -75,26 +67,29 @@
     <div class="ok_message">
       <span>Thanks for the Vauable Feedback!</span></div>
 
-  </section>
+  </div>
 
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <!-- <script  src="js/video.js"></script> -->
+  <script src="js/form.js"></script>
   <script type='text/javascript'>
     document.getElementById('bgvid').addEventListener('ended', myHandler, false);
 
     function myHandler(e) {
-      var div = document.getElementById("inputform");
+      var div = document.getElementById("formpage");
       div.classList.remove("hideform");
-      div.innerHTML = "I'm showing";
+      $('div.video').hide();
     }
   </script>
   <script>
     $(function () {
+      $('div.video').hide();
       $('.getstarted').on('click', function () {
-        $('div.video').show();
+        $('div.frontpage, div.video').toggle();
       });
     });
-  </script> -->
+  </script>
 </body>
 
 </html>

@@ -14,6 +14,7 @@ function vidFade() {
 vid.addEventListener('ended', function()
 {
 // only functional if "loop" is removed 
+
 location.href = 'html/form.html'
 // to capture IE10
 vidFade();

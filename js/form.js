@@ -6,8 +6,6 @@ $(".form").on('click', function(){
   $(this).addClass('active');
 });
 
-
-
 $(".submit").on('click', function() {
   $(this).parent().parent().hide(300);
   $(".ok_message").addClass("active");
@@ -15,7 +13,7 @@ $(".submit").on('click', function() {
 });
 
 $(".ok_message").on('click', function() {
-  location.href = 'index.html';
+  location.href = '../html/index.html';
 });
 function timeout(){
 setTimeout(function() {
