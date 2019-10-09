@@ -65,7 +65,7 @@ body::-webkit-scrollbar-thumb
   }
   .aboutimg img{
     height: 100%;
-    width: 100%;
+    width: 140%;
   }
   .navbar-brand>img:nth-child(1) {
     width: 18%;

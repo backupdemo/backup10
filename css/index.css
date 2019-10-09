@@ -23,7 +23,9 @@ body::-webkit-scrollbar-thumb
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 	background-color: #D62929;
 }
-
+iframe {
+    border-width: 0;
+}
 /* what why how card */
 #ourfeatures{
     background: black;
@@ -83,12 +85,23 @@ body::-webkit-scrollbar-thumb
 }
 .cont .back_card:nth-child(1) .face.face2{
     background: linear-gradient(45deg, rgb(0, 0, 0), #02fe7f ) ;
+    background-image: url("../assets/what.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
 }
 .cont .back_card:nth-child(2) .face.face2{
     background: linear-gradient(45deg, #02fe7f, #5e5e5e ) ;
+    background-image: url("../assets/news6.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
 }
 .cont .back_card:nth-child(3) .face.face2{
     background: linear-gradient(45deg, #000000, #02fe7f ) ;
+    background-image: url("../assets/news3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 .cont .back_card:hover .face.face2{
     height: 60px;
