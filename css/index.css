@@ -73,6 +73,10 @@ body::-webkit-scrollbar-thumb
     margin: 0;
     padding: 0;
 }
+.cont .back_card .face.face1 p{
+    font-size: 1.1em;
+    
+}
 .cont .back_card .face.face2{
     background: #111;
     transition: 0.5s;
@@ -597,7 +601,7 @@ tr {
               font-size: 1.2em;
           }
           .card .content p{
-              font-size: 1em;
+              font-size:0.9em;
               padding: 4px;
           }
 /* news end */
@@ -761,7 +765,7 @@ tr {
 
     h1 {
         font-family: 'Poppins', sans-serif;
-        font-size: 5em;
+        font-size: 4.4em;
         font-weight: bold;
         color: black;
     }
@@ -3227,7 +3231,7 @@ visibility: hidden;
 
     h1 {
         font-family: 'Poppins', sans-serif;
-        font-size: 5em;
+        font-size: 4.4em;
         font-weight: bold;
         color: black;
     }
