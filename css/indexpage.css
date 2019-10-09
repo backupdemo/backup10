@@ -1,3 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+   
+}
+section{
+    background-image: url("../assets/globe1.gif");
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
 .hideform {
     display: none;
   }
@@ -77,4 +89,27 @@
       width: 550px;
       height: 500px;
     }
+  }
+
+  .logo{
+   text-align: center;
+    /* background-image: url("../assets/logo.png") ; */
+    background-repeat: no-repeat;
+    margin-top: 40%;
+
+  }
+  .logo img{
+    width: 25%;
+    height: 20vh;
+  }
+
+  .text{
+      margin-top: 3%;
+      width: 100%;
+      text-align: center;
+  }
+  .text h2{
+  }
+  .text h3{
+      margin: 1% 0 2% 0;
   }
