@@ -49,7 +49,7 @@
         function move() {
             $lis.each(function(index, element) {
                 var state = states[index];
-                $(element).css('zIndex', state.$zIndex).finish().animate(state, setting.speed).find('img').css('opacity', state.$opacity);
+                $(element).css('zIndex', state.$zIndex).finish().animate(state, setting.speed).find('.card').css('opacity', state.$opacity);
             });
         }
         function next() {
