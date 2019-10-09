@@ -154,36 +154,41 @@ body::-webkit-scrollbar-thumb
     }
 
     .inp_form>input {
-        border: none;
-        border-radius: 1em;
+      border:1px solid black;
+      border-radius: 1em;
         width: 100%;
         height: 35px;
         padding-left: 20px;
-        background: darkgrey;
+        background: white;
         color: black;
     }
-
+    .inp_form>input:focus{
+      border:1px solid green;
+    }
+    .inp_form>textarea:focus{
+      border:1px solid green;
+    }
     .inp_form>textarea {
-        border: none;
+        border:1px solid black;
         border-radius: 1em;
         width: 100%;
         height: 100px;
         resize: none;
         padding-left: 20px;
-        background: darkgrey;
+        background: white;
         color: black;
     }
 
     .inp_form>input::placeholder,
     .inp_form>textarea::placeholder {
-        color: white;
+        color: black;
     }
 
     input[type=submit]{
   border: 2px solid black;
         border-radius: 2em;
-        background-color: grey;
-        color: white;
+        background-color: white;
+        color: black;
         width: 100px;
         height: 40px;
         font-size: 18px;
@@ -192,7 +197,7 @@ body::-webkit-scrollbar-thumb
 
     input[type="submit"]:hover {
 border: 2px solid green;
-
+color: green;
 }
 
     .details {
