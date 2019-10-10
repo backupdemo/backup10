@@ -23,6 +23,10 @@ body::-webkit-scrollbar-thumb
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 	background-color: #D62929;
 }
+p{
+    text-align: justify;
+    
+  }
 iframe {
     border-width: 0;
 }
@@ -36,7 +40,6 @@ iframe {
     justify-content: center;
     align-items: center;
     /* min-height: 100vh; */
-    font-family: '';
 }
 .head{
     padding: 0 0 5% 0;
@@ -900,7 +903,7 @@ tr {
     }
 
     h1 {
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 4.4em;
         font-weight: bold;
         color: black;
@@ -931,7 +934,7 @@ tr {
     #head_f {
         color: white;
         text-align: center;
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
     }
@@ -972,7 +975,7 @@ tr {
     .rect>h3 {
         text-align: center;
         padding-top: 50px;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
         font-size: 2em;
         color: black;
@@ -996,7 +999,7 @@ tr {
     .content_about>p {
         font-size: 16px;
         font-weight: 700;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     footer {
@@ -1023,7 +1026,7 @@ tr {
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -1100,7 +1103,7 @@ tr {
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -1584,7 +1587,7 @@ tr {
     }
 
     h1 {
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
         color: black;
@@ -1608,7 +1611,7 @@ tr {
     #head_f {
         color: white;
         text-align: center;
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
     }
@@ -1649,7 +1652,7 @@ tr {
     .rect>h3 {
         text-align: center;
         padding-top: 50px;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
         font-size: 2em;
         color: black;
@@ -1673,7 +1676,7 @@ tr {
     .content_about>p {
         font-size: 16px;
         font-weight: 700;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     footer {
@@ -1700,7 +1703,7 @@ tr {
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -1776,7 +1779,7 @@ tr {
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -2169,7 +2172,7 @@ visibility: hidden;
     }
 
     h1 {
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
         color: black;
@@ -2193,7 +2196,7 @@ visibility: hidden;
     #head_f {
         color: white;
         text-align: center;
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
     }
@@ -2234,7 +2237,7 @@ visibility: hidden;
     .rect>h3 {
         text-align: center;
         padding-top: 50px;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
         font-size: 2em;
         color: black;
@@ -2258,7 +2261,7 @@ visibility: hidden;
     .content_about>p {
         font-size: 16px;
         font-weight: 700;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     footer {
@@ -2284,7 +2287,7 @@ visibility: hidden;
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -2360,7 +2363,7 @@ visibility: hidden;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -2788,7 +2791,7 @@ visibility: hidden;
     }
 
     h1 {
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
         color: black;
@@ -2812,7 +2815,7 @@ visibility: hidden;
     #head_f {
         color: white;
         text-align: center;
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
     }
@@ -2853,7 +2856,7 @@ visibility: hidden;
     .rect>h3 {
         text-align: center;
         padding-top: 50px;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
         font-size: 2em;
         color: black;
@@ -2877,7 +2880,7 @@ visibility: hidden;
     .content_about>p {
         font-size: 16px;
         font-weight: 700;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     footer {
@@ -2903,7 +2906,7 @@ visibility: hidden;
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -2976,7 +2979,7 @@ visibility: hidden;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -3366,7 +3369,7 @@ visibility: hidden;
     }
 
     h1 {
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 4.4em;
         font-weight: bold;
         color: black;
@@ -3391,7 +3394,7 @@ visibility: hidden;
     #head_f {
         color: white;
         text-align: center;
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 5em;
         font-weight: bold;
     }
@@ -3432,7 +3435,7 @@ visibility: hidden;
     .rect>h3 {
         text-align: center;
         padding-top: 50px;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
         font-size: 2em;
         color: black;
@@ -3456,7 +3459,7 @@ visibility: hidden;
     .content_about>p {
         font-size: 16px;
         font-weight: 700;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     footer {
@@ -3482,7 +3485,7 @@ visibility: hidden;
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -3557,7 +3560,7 @@ visibility: hidden;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -3949,7 +3952,6 @@ visibility: hidden;
 
     .main-heading>h3 {
         font-size: 1.3em;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         text-align: center;
     }
 
@@ -3958,7 +3960,7 @@ visibility: hidden;
     }
 
     h1 {
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 3.5em;
         font-weight: bold;
         color: black;
@@ -4000,7 +4002,7 @@ visibility: hidden;
     #head_f {
         color: white;
         text-align: center;
-        font-family: 'Poppins', sans-serif;
+           
         font-size: 3.5em;
         font-weight: bold;
     }
@@ -4041,7 +4043,7 @@ visibility: hidden;
     .rect>h3 {
         text-align: center;
         padding-top: 50px;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
         font-size: 2em;
         color: black;
@@ -4065,7 +4067,7 @@ visibility: hidden;
     .content_about>p {
         font-size: 16px;
         font-weight: 700;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     footer {
@@ -4091,7 +4093,7 @@ visibility: hidden;
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -4167,7 +4169,7 @@ visibility: hidden;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {

@@ -3,9 +3,10 @@ aside {
 	margin: 0;
 	padding: 0;
 }
-
+p{
+	text-align: justify;
+  }
 a {
-	text-decoration: underline;
 }
 a:hover {
 	text-decoration: none;
@@ -45,7 +46,6 @@ a:hover {
 }
 .sky-tabs {
 	position: relative;
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 0;
 	text-align: left;
 	color: #666;

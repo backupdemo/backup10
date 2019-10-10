@@ -92,7 +92,7 @@ body::-webkit-scrollbar-thumb
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -115,9 +115,9 @@ body::-webkit-scrollbar-thumb
     }
 
     .contact_us>h2 {
-        padding-top: 70px;
+        padding-top: 35px;
         font-size: 4em;
-        font-family: 'Poppins', sans-serif;
+       padding-left: 6%;
         font-weight: bold;
     }
 
@@ -144,7 +144,7 @@ body::-webkit-scrollbar-thumb
         padding-bottom: 30px;
         color: white;
         font-size: 2em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-bottom: 10px;
     }
@@ -207,7 +207,7 @@ color: green;
     .details>h3 {
         color: rgb(134, 131, 131);
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-top: 30px;
     }
@@ -253,7 +253,7 @@ color: green;
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: right;
         padding-right: 5vh;
     }
@@ -327,7 +327,7 @@ color: green;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -350,9 +350,9 @@ color: green;
     }
 
     .contact_us>h2 {
-        padding-top: 70px;
+        padding-top: 35px;
         font-size: 4em;
-        font-family: 'Poppins', sans-serif;
+        padding-left: 6%;
         font-weight: bold;
     }
 
@@ -378,7 +378,7 @@ color: green;
         padding-bottom: 30px;
         color: white;
         font-size: 2em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-bottom: 10px;
     }
@@ -436,7 +436,7 @@ border: 2px solid green;
     .details>h3 {
         color: rgb(134, 131, 131);
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-top: 30px;
     }
@@ -482,8 +482,8 @@ border: 2px solid green;
 
     .powered>p {
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
-        text-align: right;
+           
+        /* text-align: right; */
         padding-right: 5vh;
     }
 
@@ -556,7 +556,7 @@ border: 2px solid green;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head a:visited {
@@ -590,7 +590,7 @@ border: 2px solid green;
     .contact_us>h2 {
         padding-top: 2vh;
         font-size: 4em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
     }
 
@@ -617,7 +617,7 @@ border: 2px solid green;
         padding-bottom: 3vh;
         color: white;
         font-size: 2em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         /* padding-bottom: 10px; */
     }
@@ -678,7 +678,7 @@ border: 2px solid green;
     .details>h3 {
         color: rgb(134, 131, 131);
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-top: 30px;
     }
@@ -731,8 +731,8 @@ border: 2px solid green;
 
     .powered>p {
         font-size: 1.2em;
-        font-family: 'Poppins', sans-serif;
-        text-align: end;
+           
+        text-align: end !important;
     }
 }
 
@@ -808,7 +808,7 @@ border: 2px solid green;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head a:visited {
@@ -841,7 +841,7 @@ border: 2px solid green;
     .contact_us>h2 {
         padding-top: 6vh;
         font-size: 4.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
     }
 
@@ -869,7 +869,7 @@ border: 2px solid green;
         padding-bottom: 30px;
         color: white;
         font-size: 2em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-bottom: 10px;
     }
@@ -927,7 +927,7 @@ border: 2px solid green;
     .details>h3 {
         color: rgb(134, 131, 131);
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-top: 30px;
     }
@@ -980,8 +980,8 @@ border: 2px solid green;
 
     .powered>p {
         font-size: 1.2em;
-        font-family: 'Poppins', sans-serif;
-        text-align: end;
+        
+        text-align: end !important;
     }
 }
 
@@ -1061,7 +1061,7 @@ border: 2px solid green;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -1086,7 +1086,7 @@ border: 2px solid green;
     .contact_us>h2 {
         /* padding-top: 7vh; */
         font-size: 4em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
     }
 
@@ -1113,7 +1113,7 @@ border: 2px solid green;
         padding-bottom: 30px;
         color: white;
         font-size: 2em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-bottom: 10px;
     }
@@ -1171,7 +1171,7 @@ border: 2px solid green;
     .details>h3 {
         color: rgb(134, 131, 131);
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-top: 30px;
     }
@@ -1304,7 +1304,7 @@ border: 2px solid green;
         padding: 0;
         font-size: 17px;
         font-weight: 500;
-        font-family: 'Poppins', sans-serif;
+           
     }
 
     #button_head:hover {
@@ -1329,7 +1329,7 @@ border: 2px solid green;
     .contact_us>h2 {
         /* padding-top: 70px; */
         font-size: 3em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: bold;
     }
 
@@ -1356,7 +1356,7 @@ border: 2px solid green;
         padding-bottom: 30px;
         color: white;
         font-size: 2em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-bottom: 10px;
     }
@@ -1414,7 +1414,7 @@ border: 2px solid green;
     .details>h3 {
         color: rgb(134, 131, 131);
         font-size: 1.5em;
-        font-family: 'Poppins', sans-serif;
+           
         font-weight: 500;
         padding-top: 30px;
     }
@@ -1462,7 +1462,7 @@ border: 2px solid green;
 
     .powered>p {
         font-size: 1.2em;
-        font-family: 'Poppins', sans-serif;
+           
         text-align: center;
     }
 }
@@ -1473,10 +1473,9 @@ aside {
 }
 
 a {
-	text-decoration: underline;
 }
 a:hover {
-	text-decoration: none;
+
 }
 .body {
 	padding: 20px;
@@ -1513,7 +1512,6 @@ a:hover {
 }
 .sky-tabs {
 	position: relative;
-	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-size: 0;
 	text-align: left;
 	color: #666;
@@ -1558,7 +1556,7 @@ a:hover {
 	-webkit-transition: background 0.4s, color 0.4s;	
 }
 .sky-tabs > label:hover span span {
-	background: #2da5da;
+	background: black;
 	color: #fff;	
 }
 .sky-tabs > label.disabled span span {
@@ -1566,10 +1564,12 @@ a:hover {
 	color: inherit;
 }
 .sky-tabs > input:checked + label {
-	cursor: default;
+  cursor: default;
+  font-size: large;     
+  font-weight: bold;
 }
 .sky-tabs > input:checked + label span span {
-	background: #2da5da;
+	background: black;
 	color: #fff;
 }
 .sky-tabs > .switcher {
@@ -1796,6 +1796,7 @@ a:hover {
 }
 
 .sky-tabs-anim-flip > ul {
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175) !important;
 	perspective: 2000px;
 	-o-perspective: 2000px;
 	-ms-perspective: 2000px;
@@ -2043,7 +2044,7 @@ a:hover {
 }
 .sky-tabs .typography a {
 	text-decoration: underline;
-	color: #2da5da;
+	color: black;
 }
 .sky-tabs .typography a:hover {
 	text-decoration: none;
@@ -2061,7 +2062,7 @@ a:hover {
 }
 .sky-tabs .typography .link {
 	text-decoration: underline;
-	color: #2da5da;
+	color: black;
 	cursor: pointer;
 }
 .sky-tabs .typography .link:hover {
@@ -3189,13 +3190,14 @@ a:hover {
   content: "\f18b";
 }
 .sky-tabs > label [class^="icon-"] {
-	display: block;
+  display: block;
+  font-size: large;     
+  font-weight: bold;
 	float: left;
 	width: 18px;
 	margin: 0 12px 0 -6px;
   font-family: FontAwesome;
   font-style: normal;
-  font-size: 16px;
   text-align: center;
   -webkit-font-smoothing: antialiased;
 }

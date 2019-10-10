@@ -25,7 +25,9 @@ body::-webkit-scrollbar-thumb
 	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
 	background-color: #D62929;
 }
-
+p{
+  text-align: justify;
+}
 .images{
   transition: transform .5s;
 }
@@ -97,7 +99,7 @@ body::-webkit-scrollbar-thumb
   .content_about>p{
     font-size: 1.1em;
     font-weight: ;
-    font-family: 'Poppins', sans-serif;
+       
   }
   /* #aboutus{
     background-image: url('../assets/DOTTED.png');
@@ -153,21 +155,21 @@ body::-webkit-scrollbar-thumb
     padding: 0;
     font-size: 17px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+       
   }
   
   #button_head:hover {
-    border: 3px solid #02fe7f;
-    color: #02fe7f;
+    border: 3px solid #00fda9;
+    color: #00fda9;
     transition: 0.5s all ease;
   }
   
   #button_head a:hover {
-    color: #02fe7f;
+    color: #00fda9;
   }
   
   h1 {
-    font-family: 'Poppins', sans-serif;
+       
     font-size: 5em;
     font-weight: bold;
     color: black;
@@ -184,12 +186,12 @@ body::-webkit-scrollbar-thumb
   
   .contact_us>h4 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px;
   }
   .contact_us>p {
     font-size: 1.5em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px 0 5px 0;
   }
   
@@ -206,7 +208,7 @@ body::-webkit-scrollbar-thumb
   
   
   hr {
-    background: #02fe7f;
+    background: #00fda9;
     margin-top: 1px solid;
     height: 2px;
     border: none;
@@ -225,7 +227,7 @@ body::-webkit-scrollbar-thumb
   }
   
   a:hover {
-    color: #02fe7f;
+    color: #00fda9;
     text-decoration: none;
   
   }
@@ -254,7 +256,7 @@ body::-webkit-scrollbar-thumb
     font-size: 20px;
   }
   #more:hover{
-    color: #02fe7f;
+    color: #00fda9;
 }
   
   footer {
@@ -314,16 +316,16 @@ body::-webkit-scrollbar-thumb
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%;
-     border: 4px solid #02fe7f;
+     border: 4px solid #00fda9;
   }
   .tushar_img{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%; 
-    border: 4px solid #02fe7f;
+    border: 4px solid #00fda9;
   } */
   .quaffle{
-    text-align: end; 
+    text-align: end !important; 
     padding-right:120px;
     font-size:1.5em;
   }
@@ -486,12 +488,14 @@ body::-webkit-scrollbar-thumb
 }
 #more:hover{
   /* background: white; */
-  color: #02fe7f ;
-  border: 3px solid #02fe7f;
+  color: #00fda9 ;
+  border: 3px solid #00fda9;
   box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
   transition: 0.7s all ease;
 }
-    
+.quaffle p {
+  text-align: end !important;
+}
 }
 
 /* 
@@ -586,21 +590,21 @@ body::-webkit-scrollbar-thumb
     padding: 0;
     font-size: 17px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+       
   }
   
   #button_head:hover {
-    border: 3px solid #02fe7f;
-    color: #02fe7f;
+    border: 3px solid #00fda9;
+    color: #00fda9;
     transition: 0.5s all ease;
   }
   
   #button_head a:hover {
-    color: #02fe7f;
+    color: #00fda9;
   }
   
   h1 {
-    font-family: 'Poppins', sans-serif;
+       
     font-size: 5em;
     font-weight: bold;
     color: black;
@@ -617,12 +621,12 @@ body::-webkit-scrollbar-thumb
   
   .contact_us>h4 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px;
   }
   .contact_us>p {
     font-size: 1.5em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px 0 5px 0;
   }
   
@@ -639,7 +643,7 @@ body::-webkit-scrollbar-thumb
   
   
   hr {
-    background: #02fe7f;
+    background: #00fda9;
     margin-top: 1px solid;
     height: 2px;
     border: none;
@@ -658,7 +662,7 @@ body::-webkit-scrollbar-thumb
   }
   
   a:hover {
-    color: #02fe7f;
+    color: #00fda9;
     text-decoration: none;
   
   }
@@ -686,7 +690,7 @@ body::-webkit-scrollbar-thumb
     font-size: 20px;
   }
   #more:hover{
-    color: #02fe7f;
+    color: #00fda9;
 }
   
   footer {
@@ -715,16 +719,16 @@ body::-webkit-scrollbar-thumb
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%;
-     border: 4px solid #02fe7f;
+     border: 4px solid #00fda9;
   }
   .tushar_img{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%; 
-    border: 4px solid #02fe7f;
+    border: 4px solid #00fda9;
   }
   .quaffle{
-    text-align: end; 
+    text-align: end !important; 
     padding-right:120px;
     font-size:1.5em;
   }
@@ -877,12 +881,14 @@ padding-top:5px !important;
 }
 #more:hover{
   /* background: white; */
-  color: #02fe7f ;
-  border: 3px solid #02fe7f;
+  color: #00fda9 ;
+  border: 3px solid #00fda9;
   box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
   transition: 0.7s all ease;
 }
-    
+.quaffle p {
+  text-align: end !important;
+} 
 }
 
 /* 
@@ -986,17 +992,17 @@ padding-top:5px !important;
     padding: 0;
     font-size: 17px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+       
   }
   
   #button_head:hover {
-    border: 3px solid #02fe7f;
-    color: #02fe7f;
+    border: 3px solid #00fda9;
+    color: #00fda9;
     transition: 0.5s all ease;
   }
   
   #button_head a:hover {
-    color: #02fe7f;
+    color: #00fda9;
   }
   p{
     font-weight: 600;
@@ -1019,7 +1025,7 @@ padding-top:5px !important;
     margin-left: 0;
   }
   h1 {
-    font-family: 'Poppins', sans-serif;
+       
     font-size: 5em;
     font-weight: bold;
     color: black;
@@ -1036,12 +1042,12 @@ padding-top:5px !important;
   
   .contact_us>h4 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px;
   }
   .contact_us>p {
     font-size: 1.5em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px 0 5px 0;
   }
   
@@ -1058,7 +1064,7 @@ padding-top:5px !important;
   
   
   hr {
-    background: #02fe7f;
+    background: #00fda9;
     margin-top: 1px solid;
     height: 2px;
     border: none;
@@ -1077,7 +1083,7 @@ padding-top:5px !important;
   }
   
   a:hover {
-    color: #02fe7f;
+    color: #00fda9;
     text-decoration: none;
   
   }
@@ -1106,7 +1112,7 @@ padding-top:5px !important;
   }
   
   #more:hover{
-    color: #02fe7f;
+    color: #00fda9;
 }
   footer {
     /* position: relative; */
@@ -1138,13 +1144,13 @@ padding-top:5px !important;
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%;
-     border: 4px solid #02fe7f;
+     border: 4px solid #00fda9;
   }
   .tushar_img{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%; 
-    border: 4px solid #02fe7f;
+    border: 4px solid #00fda9;
   }
   .quaffle{
     text-align: center; 
@@ -1302,12 +1308,14 @@ padding-top:5px !important;
 }
 #more:hover{
   /* background: white; */
-  color: #02fe7f ;
-  border: 3px solid #02fe7f;
+  color: #00fda9 ;
+  border: 3px solid #00fda9;
   box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
   transition: 0.7s all ease;
 }
-    
+.quaffle p {
+  text-align: end !important;
+}
 }
 
 /* 
@@ -1413,17 +1421,17 @@ padding-top:5px !important;
     padding: 0;
     font-size: 17px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+       
   }
   
   #button_head:hover {
-    border: 3px solid #02fe7f;
-    color: #02fe7f;
+    border: 3px solid #00fda9;
+    color: #00fda9;
     transition: 0.5s all ease;
   }
   
   #button_head a:hover {
-    color: #02fe7f;
+    color: #00fda9;
   }
   p{
     font-weight: 600;
@@ -1446,7 +1454,7 @@ padding-top:5px !important;
     margin-left: 0;
   }
   h1 {
-    font-family: 'Poppins', sans-serif;
+       
     font-size: 5em;
     font-weight: bold;
     color: black;
@@ -1463,12 +1471,12 @@ padding-top:5px !important;
   
   .contact_us>h4 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px;
   }
   .contact_us>p {
     font-size: 1.5em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px 0 5px 0;
   }
   
@@ -1485,7 +1493,7 @@ padding-top:5px !important;
   
   
   hr {
-    background: #02fe7f;
+    background: #00fda9;
     margin-top: 1px solid;
     height: 2px;
     border: none;
@@ -1504,7 +1512,7 @@ padding-top:5px !important;
   }
   
   a:hover {
-    color: #02fe7f;
+    color: #00fda9;
     text-decoration: none;
   
   }
@@ -1537,7 +1545,7 @@ padding-top:5px !important;
     font-size: 20px;
   }
   #more:hover{
-    color: #02fe7f;
+    color: #00fda9;
 }
   
   footer {
@@ -1565,13 +1573,13 @@ padding-top:5px !important;
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%;
-     border: 4px solid #02fe7f;
+     border: 4px solid #00fda9;
   }
   .tushar_img{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%; 
-    border: 4px solid #02fe7f;
+    border: 4px solid #00fda9;
   }
   .quaffle{
     text-align: center; 
@@ -1676,8 +1684,8 @@ padding-top:5px !important;
 }
 #more:hover{
   /* background: white; */
-  color: #02fe7f ;
-  border: 3px solid #02fe7f;
+  color: #00fda9 ;
+  border: 3px solid #00fda9;
   box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
   transition: 0.7s all ease;
 }
@@ -1783,17 +1791,17 @@ padding-top:5px !important;
     padding: 0;
     font-size: 17px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+       
   }
   
   #button_head:hover {
-    border: 3px solid #02fe7f;
-    color: #02fe7f;
+    border: 3px solid #00fda9;
+    color: #00fda9;
     transition: 0.5s all ease;
   }
   
   #button_head a:hover {
-    color: #02fe7f;
+    color: #00fda9;
   }
   p{
     font-weight: 600;
@@ -1816,7 +1824,7 @@ padding-top:5px !important;
     margin-left: 0;
   }
   h1 {
-    font-family: 'Poppins', sans-serif;
+       
     font-size: 5em;
     font-weight: bold;
     color: black;
@@ -1833,12 +1841,12 @@ padding-top:5px !important;
   
   .contact_us>h4 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px;
   }
   .contact_us>p {
     font-size: 1.5em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px 0 5px 0;
   }
   
@@ -1855,7 +1863,7 @@ padding-top:5px !important;
   
   
   hr {
-    background: #02fe7f;
+    background: #00fda9;
     margin-top: 1px solid;
     height: 2px;
     border: none;
@@ -1874,7 +1882,7 @@ padding-top:5px !important;
   }
   
   a:hover {
-    color: #02fe7f;
+    color: #00fda9;
     text-decoration: none;
   
   }
@@ -1903,7 +1911,7 @@ padding-top:5px !important;
   }
   
   #more:hover{
-    color: #02fe7f;
+    color: #00fda9;
 }
   footer {
     /* position: relative; */
@@ -1935,13 +1943,13 @@ padding-top:5px !important;
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%;
-     border: 4px solid #02fe7f;
+     border: 4px solid #00fda9;
   }
   .tushar_img{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%; 
-    border: 4px solid #02fe7f;
+    border: 4px solid #00fda9;
   }
   .quaffle{
     text-align: center; 
@@ -2051,8 +2059,8 @@ padding-top:5px !important;
 }
 #more:hover{
   /* background: white; */
-  color: #02fe7f ;
-  border: 3px solid #02fe7f;
+  color: #00fda9 ;
+  border: 3px solid #00fda9;
   box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
   transition: 0.7s all ease;
 }
@@ -2165,17 +2173,17 @@ a.navbar-brand{
     padding: 0;
     font-size: 17px;
     font-weight: 500;
-    font-family: 'Poppins', sans-serif;
+       
   }
   
   #button_head:hover {
-    border: 3px solid #02fe7f;
-    color: #02fe7f;
+    border: 3px solid #00fda9;
+    color: #00fda9;
     transition: 0.5s all ease;
   }
   
   #button_head a:hover {
-    color: #02fe7f;
+    color: #00fda9;
   }
   p{
     font-weight: 600;
@@ -2198,7 +2206,7 @@ a.navbar-brand{
     margin-left: 0;
   }
   h1 {
-    font-family: 'Poppins', sans-serif;
+       
     font-size: 5em;
     font-weight: bold;
     color: black;
@@ -2215,12 +2223,12 @@ a.navbar-brand{
   
   .contact_us>h4 {
     font-size: 2em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px;
   }
   .contact_us>p {
     font-size: 1.5em;
-    font-family: 'Poppins', sans-serif;
+       
     padding: 15px 0 5px 0;
   }
   
@@ -2237,7 +2245,7 @@ a.navbar-brand{
   
   
   hr {
-    background: #02fe7f;
+    background: #00fda9;
     margin-top: 1px solid;
     height: 2px;
     border: none;
@@ -2256,7 +2264,7 @@ a.navbar-brand{
   }
   
   a:hover {
-    color: #02fe7f;
+    color: #00fda9;
     text-decoration: none;
   
   }
@@ -2284,7 +2292,7 @@ a.navbar-brand{
     font-size: 20px;
   }
   #more:hover{
-    color: #02fe7f;
+    color: #00fda9;
 }
   
   footer {
@@ -2317,13 +2325,13 @@ a.navbar-brand{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%;
-     border: 4px solid #02fe7f;
+     border: 4px solid #00fda9;
   }
   .tushar_img{
     width:80%;
     margin:30px 0 0 20px;
     border-radius: 50%; 
-    border: 4px solid #02fe7f;
+    border: 4px solid #00fda9;
   }
   .quaffle{
     text-align: center; 

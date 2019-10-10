@@ -6,6 +6,9 @@ body {
   background: #000;
 	overflow: hidden;
 }
+p{
+  text-align: justify;
+}
 video { 
     position: fixed;
     top: 50%;
@@ -26,7 +29,6 @@ video {
 
 #polina { 
 	background-color: black;
-  font-family: Agenda-Light, Agenda Light, Agenda, Arial Narrow, sans-serif;
   font-weight:100; 
   color: white;
   padding: 2rem;

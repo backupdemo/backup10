@@ -3,7 +3,9 @@ body{
   margin:0;
   padding: 0;
 }
-
+p{
+  text-align: justify;
+}
 .fixed {
   position: fixed;
   top:0; 
