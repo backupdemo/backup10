@@ -33,6 +33,15 @@ body::-webkit-scrollbar-thumb
 	background-color: #D62929;
 }
 
+.images{
+  transition: transform .5s;
+}
+.images:hover{
+  transform: scale(1.1);
+}
+
+
+
 @media (min-width: 1281px) {
     body {
         overflow-x: hidden;

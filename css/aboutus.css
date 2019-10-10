@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Catamaran&display=swap');
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
@@ -29,7 +29,7 @@ body::-webkit-scrollbar-thumb
 }
 p{
   text-align: justify;
-  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-family: 'Catamaran', sans-serif;
 }
 .images{
   transition: transform .5s;
