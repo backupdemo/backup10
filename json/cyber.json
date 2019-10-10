@@ -5,15 +5,15 @@
     },
     {
         "name": "AO",
-        "threat": "Ransomware"
+        "threat": " The most common form of attack here is ransomware"
     },
     {
         "name": "AL",
-        "threat": "DoS & DDoS"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AE",
-        "threat": "spear phishing"
+        "threat": "The most sommon attack here is spear phishing"
     },
     {
         "name": "AR",
@@ -21,7 +21,7 @@
     },
     {
         "name": "AM",
-        "threat": "DDos"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AU",
@@ -29,27 +29,27 @@
     },
     {
         "name": "AT",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AZ",
-        "threat": "DDoS"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BI",
-        "threat": "Phishing"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BE",
-        "threat": "exploited vulnerabilities"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BJ",
-        "threat": "DDoS"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BF",
-        "threat": "Phishing"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BD",
@@ -57,23 +57,23 @@
     },
     {
         "name": "BG",
-        "threat": "0.57"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BH",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BA",
-        "threat": "0.12"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BY",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BZ",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BO",
@@ -89,15 +89,15 @@
     },
     {
         "name": "BT",
-        "threat": "DoS"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BW",
-        "threat": "Phishing"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CF",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CA",
@@ -113,23 +113,23 @@
     },
     {
         "name": "CN",
-        "threat": "Exploit"
+        "threat": "In 2009 hackers gained access to Google's Chinese headquarters corporate servers and intellectual property was stolen."
     },
     {
         "name": "CI",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CM",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CD",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CG",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CO",
@@ -137,55 +137,55 @@
     },
     {
         "name": "CR",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CU",
-        "threat": "0.12"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CZ",
-        "threat": "0.46"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "DE",
-        "threat": "1.65"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "DJ",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "DK",
-        "threat": "0.32"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "DO",
-        "threat": "0.07"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "DZ",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "EC",
-        "threat": "Ecuador lost US$3.45bn"
+        "threat": "Ecuador lost US$3.45bn in a series of cyber attacks"
     },
     {
         "name": "EG",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ER",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS.1"
     },
     {
         "name": "EE",
-        "threat": "0.09"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ET",
-        "threat": "0.05"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "FI",
@@ -193,43 +193,43 @@
     },
     {
         "name": "FJ",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GA",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GB",
-        "threat": "DDOS"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GE",
-        "threat": "0.27"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GH",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GN",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GM",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GW",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GQ",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GR",
-        "threat": "5.56"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GL",
@@ -237,27 +237,27 @@
     },
     {
         "name": "GT",
-        "threat": "0.07"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GY",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "HN",
-        "threat": "0.26"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "HR",
-        "threat": "0.21"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "HT",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "HU",
-        "threat": "0.15"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ID",
@@ -269,35 +269,35 @@
     },
     {
         "name": "IE",
-        "threat": "0.27"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "IR",
-        "threat": "0.27"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "IQ",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "IS",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "IL",
-        "threat": "5.85"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "IT",
-        "threat": "1.67"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "JM",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "JO",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "JP",
@@ -309,15 +309,15 @@
     },
     {
         "name": "KE",
-        "threat": "1.44"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KG",
-        "threat": "1.44"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KH",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KR",
@@ -325,59 +325,59 @@
     },
     {
         "name": "XK",
-        "threat": "0.64"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KW",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LA",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LB",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LR",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LY",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LK",
-        "threat": "1.33"
+        "threat": "The website of a foreign embassy based in Sri Lanka was targetted through the cyber attacks."
     },
     {
         "name": "LS",
-        "threat": "1.33"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LT",
-        "threat": "0.07"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LU",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LV",
-        "threat": "0.06"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MA",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MD",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MG",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MX",
@@ -385,19 +385,19 @@
     },
     {
         "name": "MK",
-        "threat": "0.09"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ML",
-        "threat": "0.09"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MM",
-        "threat": "0.06"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ME",
-        "threat": "0.06"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MN",
@@ -405,15 +405,15 @@
     },
     {
         "name": "MZ",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MR",
-        "threat": "0.03"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MW",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MY",
@@ -421,23 +421,23 @@
     },
     {
         "name": "NA",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NE",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NG",
-        "threat": "0.35"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NI",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NL",
-        "threat": "0.83"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NO",
@@ -445,7 +445,7 @@
     },
     {
         "name": "NP",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NZ",
@@ -453,7 +453,7 @@
     },
     {
         "name": "OM",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PK",
@@ -461,7 +461,7 @@
     },
     {
         "name": "PA",
-        "threat": "0.45"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PE",
@@ -473,87 +473,87 @@
     },
     {
         "name": "PG",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PL",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KP",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PT",
-        "threat": "1.64"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PY",
-        "threat": "Ransomware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PS",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "QA",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "RO",
-        "threat": "0.28"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "RU",
-        "threat": "Phishing"
+        "threat": "Cyber attacks using malware called “BadRabbit” hits Russia affecting Russian Interfax news agency and causing flight delays at Ukraine’s Odessa airport."
     },
     {
         "name": "RW",
-        "threat": "0.07"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "EH",
-        "threat": "0.07"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SA",
-        "threat": "0.32"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SD",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SS",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SN",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SL",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SV",
-        "threat": "0.16"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "RS",
-        "threat": "0.09"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SR",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SK",
-        "threat": "0.06"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SI",
-        "threat": "0.17"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SE",
@@ -561,19 +561,19 @@
     },
     {
         "name": "SZ",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SY",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TD",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TG",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TH",
@@ -581,39 +581,39 @@
     },
     {
         "name": "TJ",
-        "threat": "0.66"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TM",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TL",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TN",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TR",
-        "threat": "1.92"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TW",
-        "threat": "0.85"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TZ",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "UG",
-        "threat": "0.15"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "UA",
-        "threat": "2.64"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "UY",
@@ -625,11 +625,11 @@
     },
     {
         "name": "UZ",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "VE",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "VN",
@@ -637,51 +637,51 @@
     },
     {
         "name": "VU",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "YE",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ZA",
-        "threat": "DOS"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ZM",
-        "threat": "0.07"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ZW",
-        "threat": "0.14"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SO",
-        "threat": "0.09"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GF",
-        "threat": "0.09"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "FR",
-        "threat": "2.35"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ES",
-        "threat": "1.76"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AW",
-        "threat": "1.76"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AI",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AD",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "AG",
@@ -689,167 +689,167 @@
     },
     {
         "name": "BS",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BM",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "BB",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KM",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CV",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KY",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "DM",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "FK",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "FO",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GD",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "HK",
-        "threat": "0.84"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "KN",
-        "threat": "0.84"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LC",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "LI",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MF",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MV",
-        "threat": "0.1"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MT",
-        "threat": "0.06"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MS",
-        "threat": "0.06"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MU",
-        "threat": "0.11"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NC",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "NR",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PN",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PR",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "PF",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SG",
-        "threat": "0.69"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SB",
-        "threat": "0.69"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "ST",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SX",
-        "threat": "Malware"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "SC",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TC",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TO",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "TT",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "VC",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "VG",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "VI",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CY",
-        "threat": "0.1"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "RE",
-        "threat": "0.08"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "YT",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "MQ",
-        "threat": "0.01"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "GP",
-        "threat": "0.0"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "CW",
-        "threat": "Trojan"
+        "threat": "The most common form of attack here is DoS & DDoS."
     },
     {
         "name": "IC",
