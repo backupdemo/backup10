@@ -2,8 +2,8 @@
 /* Common */
 @import url("https://fonts.googleapis.com/css?family=Lato");
 .email{
-  color: green;
-  background-color: green;
+  color: #00fda9;
+  background-color: #00fda9;
 }
 ::-webkit-scrollbar {
   width: 10px;
@@ -129,7 +129,7 @@ h1 {
 .form {
   width: 64px;
   height: 64px;
-  background: green;
+  background: #00fda9;
   border: 6px solid white;
   box-shadow: 0px 10px 20px -5px rgba(0, 0, 0, 0.3);
   cursor: pointer;

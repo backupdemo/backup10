@@ -9,7 +9,9 @@ html {
     overflow-x: hidden
 }
 body{
-    background-image: url("../assets/Artboard.png")
+    background-image: url("../assets/Artboard.png");
+    background-attachment: fixed;
+
 }
 body::-webkit-scrollbar-track
 {
@@ -96,13 +98,13 @@ body::-webkit-scrollbar-thumb
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     section {
@@ -163,10 +165,10 @@ body::-webkit-scrollbar-thumb
         color: black;
     }
     .inp_form>input:focus{
-      border:1px solid green;
+      border:1px solid #00fda9;
     }
     .inp_form>textarea:focus{
-      border:1px solid green;
+      border:1px solid #00fda9;
     }
     .inp_form>textarea {
         border:1px solid black;
@@ -196,8 +198,8 @@ body::-webkit-scrollbar-thumb
 }
 
     input[type="submit"]:hover {
-border: 2px solid green;
-color: green;
+border: 2px solid #00fda9;
+color: #00fda9;
 }
 
     .details {
@@ -220,7 +222,7 @@ color: green;
 
     .details>a:hover {
         text-decoration: none;
-        color: green;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
@@ -331,13 +333,13 @@ color: green;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     section {
@@ -425,7 +427,7 @@ color: green;
 }
 
     input[type="submit"]:hover {
-border: 2px solid green;
+border: 2px solid #00fda9;
 
 }
 
@@ -449,7 +451,7 @@ border: 2px solid green;
 
     .details>a:hover {
         text-decoration: none;
-        color: green;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
@@ -569,13 +571,13 @@ border: 2px solid green;
 
     #button_head:hover,
     #button_head:focus {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     section {
@@ -666,7 +668,7 @@ border: 2px solid green;
 }
 
     input[type="submit"]:hover {
-border: 2px solid green;
+border: 2px solid #00fda9;
 
 }
 
@@ -691,7 +693,7 @@ border: 2px solid green;
 
     .details>a:hover {
         text-decoration: none;
-        color: green;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
@@ -820,13 +822,13 @@ border: 2px solid green;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     section {
@@ -916,7 +918,7 @@ border: 2px solid green;
 }
 
     input[type="submit"]:hover {
-border: 2px solid green;
+border: 2px solid #00fda9;
 
 }
 
@@ -940,7 +942,7 @@ border: 2px solid green;
 
     .details>a:hover {
         text-decoration: none;
-        color: green;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
@@ -1065,13 +1067,13 @@ border: 2px solid green;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     section {
@@ -1160,7 +1162,7 @@ border: 2px solid green;
 }
 
    input[type="submit"]:hover {
-border: 2px solid green;
+border: 2px solid #00fda9;
 
 }
 
@@ -1184,7 +1186,7 @@ border: 2px solid green;
 
     .details>a:hover {
         text-decoration: none;
-        color: green;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
@@ -1308,13 +1310,13 @@ border: 2px solid green;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     section {
@@ -1403,7 +1405,7 @@ border: 2px solid green;
 }
 
     input[type="submit"]:hover {
-border: 2px solid green;
+border: 2px solid #00fda9;
 
 }
 
@@ -1427,7 +1429,7 @@ border: 2px solid green;
 
     .details>a:hover {
         text-decoration: none;
-        color: green;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 

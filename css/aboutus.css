@@ -4,7 +4,9 @@
   ##Screen = 1281px to higher resolution desktops
 */
 body{
-  background-image: url("../assets/Artboard.png")
+  background-image: url("../assets/Artboard.png");
+  background-attachment: fixed;
+
 }
 body::-webkit-scrollbar-track
 {

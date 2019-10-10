@@ -2,7 +2,8 @@ html {
     overflow-x: hidden
 }
 body{
-    background-image: url("../assets/Artboard.png")
+    background-image: url("../assets/Artboard.png");
+    background-attachment: fixed;
 }
 body::-webkit-scrollbar-track
 {
@@ -75,6 +76,9 @@ iframe {
 }
 
 .cont .back_card .face.face1 h2{
+    font-size: -webkit-xxx-large;
+    margin-top: -34px !important;
+    text-align: center;
     margin: 0;
     padding: 0;
 }
@@ -87,21 +91,21 @@ iframe {
     transition: 0.5s;
 }
 .cont .back_card:nth-child(1) .face.face2{
-    background: linear-gradient(45deg, rgb(0, 0, 0), #02fe7f ) ;
+    background: linear-gradient(45deg, rgb(0, 0, 0), #00fda9 ) ;
     /* background-image: url("../assets/what.png");
     background-size: 100% 100%;
     background-repeat: no-repeat; */
 
 }
 .cont .back_card:nth-child(2) .face.face2{
-    background: linear-gradient(45deg, #02fe7f, #5e5e5e ) ;
+    background: linear-gradient(45deg, #00fda9, #5e5e5e ) ;
     /* background-image: url("../assets/news6.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat; */
     
 }
 .cont .back_card:nth-child(3) .face.face2{
-    background: linear-gradient(45deg, #000000, #02fe7f ) ;
+    background: linear-gradient(45deg, #000000, #00fda9 ) ;
     /* background-image: url("../assets/news3.jpg");
     background-size: 100% 100%;
     background-repeat: no-repeat; */
@@ -170,7 +174,7 @@ iframe {
     position: absolute;
     top: 0;
     right: 50%;
-    border-top: 1px solid #02fe7f;
+    border-top: 1px solid #00fda9;
     width: 50%;
     height: 20px;
 }
@@ -178,7 +182,7 @@ iframe {
 .tree li::after {
     right: auto;
     left: 50%;
-    border-left: 1px solid #02fe7f;
+    border-left: 1px solid #00fda9;
 }
 
 We need to remove left-right connectors from elements without 
@@ -199,7 +203,7 @@ any siblings
 }
 
 .tree li:last-child::before {
-    border-right: 1px solid #02fe7f;
+    border-right: 1px solid #00fda9;
     border-radius: 0 5px 0 0;
     -webkit-border-radius: 0 5px 0 0;
     -moz-border-radius: 0 5px 0 0;
@@ -216,13 +220,13 @@ any siblings
     position: absolute;
     top: 0;
     left: 50%;
-    border-left: 1px solid #02fe7f;
+    border-left: 1px solid #00fda9;
     width: 0;
     height: 20px;
 }
 
 .tree li a {
-    border: 1px solid #02fe7f;
+    border: 1px solid #00fda9;
     padding: 10px 10px;
     text-decoration: none;
     color: #fff;
@@ -242,8 +246,8 @@ any siblings
 
 .tree li a:hover,
 .tree li a:hover+ul li a {
-    background: #02fe7f;
-    color: #02fe7f;
+    background: #00fda9;
+    color: #00fda9;
     border: 1px solid red;
 }
 
@@ -251,7 +255,7 @@ any siblings
 .tree li a:hover+ul li::before,
 .tree li a:hover+ul::before,
 .tree li a:hover+ul ul::before {
-    border-color: #02fe7f;
+    border-color: #00fda9;
 }
   {
     width:100%;
@@ -299,14 +303,14 @@ tr {
 }
 
 .box {
-    border: 2px solid #02fe7f;
+    border: 2px solid #00fda9;
     width: 300px;
     height: 30%;
     background: transparent;
 }
 
 .heading {
-    background: #02fe7f;
+    background: #00fda9;
     margin: -22px 0 -22px 0;
 }
 
@@ -317,15 +321,15 @@ tr {
 }
 
 .past4weeks {
-    border-top: 2px solid #02fe7f;
-    border-bottom: 2px solid #02fe7f;
+    border-top: 2px solid #00fda9;
+    border-bottom: 2px solid #00fda9;
     padding-left: 10px;
     text-align: left;
 }
 
 .head>h1 {
     font-size: 20px;
-    color: #02fe7f;
+    color: #00fda9;
     text-transform: uppercase;
 }
 
@@ -362,7 +366,7 @@ tr {
     padding-bottom: 10px;
     font-size: 15px;
     font-weight: 800;
-    color: #02fe7f;
+    color: #00fda9;
 }
 
 .images{
@@ -619,7 +623,7 @@ tr {
           }
           .card .content p{
               font-size:0.9em;
-              padding: 4px;
+              padding: 10px;
           }
 /* news end */
 
@@ -785,7 +789,7 @@ tr {
 
     .hiddenbutton .hovertext {
         visibility: hidden;
-        color: #02fe7f;
+        color: #00fda9;
         border-radius: 0;
         /* Position the tooltip */
         position: relative;
@@ -804,7 +808,7 @@ tr {
         margin-bottom: 0;
         border: 5px;
         border-top: 2px solid rgba(0, 0, 0, .1);
-        background-color: green;
+        background-color: #00fda9;
 
         width: 48px;
     }
@@ -1107,13 +1111,13 @@ tr {
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     #contact>a {
@@ -1163,8 +1167,8 @@ tr {
     }
     #more:hover{
         /* background: white; */
-        color: #02fe7f ;
-        border: 3px solid #02fe7f;
+        color: #00fda9 ;
+        border: 3px solid #00fda9;
         box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
         transition: 0.7s all ease;
     }
@@ -1418,7 +1422,7 @@ tr {
           }
           .card .content p{
               font-size: 1em;
-              padding: 4px;
+              padding: 10px;
           }
 /* news end */
 
@@ -1446,7 +1450,7 @@ tr {
 
     .hiddenbutton:hover .hovertext {
         visibility: visible;
-        color: #02fe7f;
+        color: #00fda9;
 
         background: #9da4a780;
 
@@ -1783,13 +1787,13 @@ tr {
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     #contact>a {
@@ -1838,8 +1842,8 @@ tr {
     }
     #more:hover{
         /* background: white; */
-        color: #02fe7f ;
-        border: 3px solid #02fe7f;
+        color: #00fda9 ;
+        border: 3px solid #00fda9;
         box-shadow: 0px 10px 42px rgba(243, 243, 243, 0.4);
         transition: 0.7s all ease;
     }
@@ -2095,7 +2099,7 @@ tr {
           }
           .card .content p{
               font-size: 1em;
-              padding: 4px;
+              padding: 10px;
           }
 /* news end */
 
@@ -2367,13 +2371,13 @@ visibility: hidden;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     #contact>a {
@@ -2704,7 +2708,7 @@ visibility: hidden;
           }
           .card .content p{
               font-size: 1em;
-              padding: 4px;
+              padding: 10px;
           }
 /* news end */
 
@@ -2983,13 +2987,13 @@ visibility: hidden;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     #contact>a {
@@ -3300,7 +3304,7 @@ visibility: hidden;
           }
           .card .content p{
               font-size: 1em;
-              padding: 4px;
+              padding: 10px;
           }
 /* news end */
 
@@ -3564,13 +3568,13 @@ visibility: hidden;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     #contact>a {
@@ -3883,7 +3887,7 @@ visibility: hidden;
           }
           .card .content p{
               font-size: 1em;
-              padding: 4px;
+              padding: 10px;
           }
 /* news end */
 
@@ -4173,13 +4177,13 @@ visibility: hidden;
     }
 
     #button_head:hover {
-        border: 3px solid green;
-        color: green;
+        border: 3px solid #00fda9;
+        color: #00fda9;
         transition: 0.5s all ease;
     }
 
     #button_head a:hover {
-        color: green;
+        color: #00fda9;
     }
 
     #contact>a {
