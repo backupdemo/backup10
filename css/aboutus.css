@@ -29,6 +29,7 @@ body::-webkit-scrollbar-thumb
 }
 p{
   text-align: justify;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
 }
 .images{
   transition: transform .5s;
