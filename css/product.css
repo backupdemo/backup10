@@ -31,8 +31,7 @@ p{
 }
 
 .navbar-nav {
-    padding-left: 15%;
-}
+    margin: auto;}
 
 .navbar-brand {
     font-size: 1.06rem !important;
