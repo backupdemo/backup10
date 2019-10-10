@@ -763,8 +763,8 @@ tr {
         scroll-behavior: smooth;
     }
     .navbar-nav{
-        padding-left: 25%;
-    }
+        margin: auto;
+        }
     
     #container {
         background-color: transparent;
@@ -774,6 +774,7 @@ tr {
         z-index: 9;
     }
     .navbar-brand{
+        font-size: 1.06rem !important;
         
         margin-left: 18%;
         width: 20em;
@@ -1428,8 +1429,8 @@ tr {
 
 
     .navbar-nav{
-        padding-left: 15%;
-    }
+        margin: auto;
+        }
     .hiddenbutton {
         position: relative;
     }
