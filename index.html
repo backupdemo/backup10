@@ -51,21 +51,21 @@
             $('#n' + i).fadeIn(500);
         }
     </script>
+    <script type="text/javascript">
+        /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
+        (function(d, m){
+          var kommunicateSettings = {"appId":"3ee2ee3b87a1a3e00f5d1656f82b6ceed","popupWidget":true,"automaticChatOpenOnNavigation":true};
+          var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
+          s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
+          var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
+          window.kommunicate = m; m._globals = kommunicateSettings;
+        })(document, window.kommunicate || {});
+    </script>
 
-<script type="text/javascript">
-    /* NOTE : Use web server to view HTML files as real-time update will not work if you directly open the HTML file in the browser. */
-    (function(d, m){
-      var kommunicateSettings = {"appId":"3ee2ee3b87a1a3e00f5d1656f82b6ceed","popupWidget":true,"automaticChatOpenOnNavigation":true};
-      var s = document.createElement("script"); s.type = "text/javascript"; s.async = true;
-      s.src = "https://widget.kommunicate.io/v2/kommunicate.app";
-      var h = document.getElementsByTagName("head")[0]; h.appendChild(s);
-      window.kommunicate = m; m._globals = kommunicateSettings;
-    })(document, window.kommunicate || {});
-</script>
 </head>
 
 <body onload="insert()">
-    <!-- <div id="load"></div> -->
+    <div id="load"></div>
 
     <header class="container-fluid p-0 fixed" id="myHeader">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -124,7 +124,7 @@
                     <img src=" assets/logonew.png">
                     <img src=" assets/backup_text.png" alt="backup.jpg">
                     <h3 style="color: white; padding-top:50px;z-index: 10; ">
-                        REIMAGINING CYBER-SECURITY TRAINING</h3>
+                            REIMAGINING CYBER-SECURITY TRAINING</h3>
                 </div>
                 <div class="noti">
                     <h4 style="color: red;text-align: center;">CYBER <span style="color: white">CORNER</span></h4>
@@ -350,7 +350,7 @@
                 <li>
                     <div class="card ">
                         <div class="img-box">
-                            <img src=" assets/cyber2.jpg">
+                            <img src=" assets/malware.png">
                         </div>
                         <div class="content">
                             <span style="color: red;font-weight: bold;"> MALWARE</span>
@@ -362,7 +362,7 @@
                 <li>
                     <div class="card ">
                         <div class="img-box">
-                            <img src=" assets/cyber3.jpg">
+                            <img src=" assets/phishing.jpg">
                         </div>
                         <div class="content">
                             <span style="color: red;font-weight: bold;"> E-MAIL AND PHISHING</span>
@@ -374,7 +374,7 @@
                 <li>
                     <div class="card ">
                         <div class="img-box">
-                            <img src=" assets/cyber5.jpg">
+                            <img src=" assets/password.png">
                         </div>
                         <div class="content">
                             <span style="color: red;font-weight: bold;">PASSWORDS</span>
@@ -386,7 +386,7 @@
                 <li>
                     <div class="card ">
                         <div class="img-box">
-                            <img src=" assets/cyber6.jpg">
+                            <img src=" assets/targeted.jpeg">
                         </div>
                         <div class="content">
                             <span style="color: red;font-weight: bold;">TARGETED ATTACKS</span>
@@ -398,7 +398,7 @@
                 <li>
                         <div class="card ">
                                 <div class="img-box">
-                                        <img src=" assets/cyber5.jpg">
+                                        <img src=" assets/2fa.png">
                                 </div>
                                 <div class="content">
                                         <span style="color: red;font-weight: bold;">2-FACTOR
@@ -415,7 +415,7 @@
                 <li>
                         <div class="card ">
                                 <div class="img-box">
-                                        <img src=" assets/cyber2.jpg">
+                                        <img src=" assets/socialnetworks.jpg">
                                 </div>
                                 <div class="content">
                                         <span style="color: red;font-weight: bold;"> SOCIAL
