@@ -15,6 +15,7 @@ a:hover {
 	padding: 20px;
 	max-width: 1120px;
 	margin: 0 auto;
+	overflow-y: hidden;
 }
 @media screen and (max-width: 1000px) {
 	body {
